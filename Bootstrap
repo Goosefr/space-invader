@@ -1,0 +1,95 @@
+<!DOCTYPE HTML>
+<html>
+    
+    
+<head>
+    
+<meta charset="UTF-8">
+<title>Bootstrap Invader Goose</title>
+    
+<!-- Compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    
+<!-- Personnal CSS -->
+<style>
+.colored{
+	background-color: #504bf9;	
+	height: 50px;	
+}
+.container {
+	width: 600px;	
+}
+</style>
+    
+</head>
+
+    
+<body>
+<div class="container">
+    
+    
+    <!-- Ligne 0 -->
+	<div class="row">
+		<div class="colored col-xs-offset-12"></div>
+	</div>
+    
+    <!-- Ligne 1 -->
+	<div class="row">
+		<div class="colored col-xs-offset-12"></div>
+	</div>
+    
+    <!-- Ligne 2 -->
+	<div class="row">
+		<div class="colored col-xs-1 col-xs-offset-2"> </div>
+		<div class="colored col-xs-1 col-xs-offset-5"> </div>
+	</div>
+    
+    <!-- Ligne 3 -->
+	<div class="row">
+		<div class="colored col-xs-1 col-xs-offset-3"></div>
+		<div class="colored col-xs-1 col-xs-offset-3"></div>
+	</div>
+    
+    <!-- Ligne 4 -->
+	<div class="row">
+		<div class="colored col-xs-7 col-xs-offset-2"></div>
+	</div>
+    
+    <!-- Ligne 5 -->
+	<div class="row">
+		<div class="colored col-xs-2 col-xs-offset-1"></div>
+		<div class="colored col-xs-3 col-xs-offset-1"></div>
+		<div class="colored col-xs-2 col-xs-offset-1"></div>
+	</div>
+    
+    <!-- Ligne 6 -->
+	<div class="row">
+		<div class="colored col-xs-11"></div>
+	</div>
+    
+    <!-- Ligne 7 -->
+	<div class="row">
+		<div class="colored col-xs-1"></div>
+		<div class="colored col-xs-7 col-xs-offset-1"></div>
+		<div class="colored col-xs-1 col-xs-offset-1"></div>
+	</div>
+    
+    <!-- Ligne 8 -->
+	<div class="row">
+		<div class="colored col-xs-1"></div>
+		<div class="colored col-xs-1 col-xs-offset-1"></div>
+		<div class="colored col-xs-1 col-xs-offset-5"></div>
+		<div class="colored col-xs-1 col-xs-offset-1"></div>
+	</div>
+    
+    <!-- Ligne 9 -->
+	<div class="row">
+		<div class="colored col-xs-2 col-xs-offset-3"></div>
+		<div class="colored col-xs-2 col-xs-offset-1"></div>
+	</div>
+
+</div>
+
+</body>
+</html>
